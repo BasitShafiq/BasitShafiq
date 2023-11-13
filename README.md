@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/abdulbasit-shafiq-322654190/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -25,17 +25,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasitShafiq&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### :man_technologist: About Me :
+I am a Software Engineer :computer: from India, specializing in building web and mobile applications using MEAN and MERN stack.
 
+- :telescope: Currently, I am working on both frontend and backend development, contributing to the creation of robust web and mobile applications.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: I have a keen interest in problem-solving and actively participate in challenges on LeetCode. Constantly striving to enhance my problem-solving skills.
 
-- :seedling: Exploring Technical Content Writing.
+- :book: In my free time, you can find me immersed in tech books, exploring the latest trends and advancements in software development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :ping_pong: I enjoy playing table tennis to unwind and stay active.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: Reach me on [![Linkedin Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
